@@ -1,0 +1,21 @@
+Document_Type;Document_ID;Name;Last_Name;Section;Salary
+IC;98445208;Jorge;Montoya;Conventional Operator;1700.0
+IC;49462879;Camilo;Montoya;Conventional Operator;1700.0
+IC;54733427;Juan;Cano;Lathe Operator;2100.0
+CC;59935242;Jorge;Torres;Conventional Operator;1700.0
+CC;38151348;Pablo;Tabares;Conventional Operator;1700.0
+CC;75564965;Lucas;Berrío;Conventional Operator;1700.0
+CC;43698326;Lucas;Cano;Conventional Operator;1700.0
+IC;46465696;Camilo;Tabares;Mill Operator;2200.0
+CC;41145552;Pablo;Torres;Mill Operator;2200.0
+IC;49055841;Pablo;Tabares;Conventional Operator;1700.0
+CC;53357613;Jorge;Berrío;Lathe Operator;2100.0
+IT;74499697;Diego;Ríos;Conventional Operator;1700.0
+CC;95128338;Lucas;Montoya;Mill Operator;2200.0
+IT;55934063;Jorge;Ríos;Lathe Operator;2100.0
+CC;97182842;Diego;Montoya;Mill Operator;2200.0
+IC;93130593;Didier;Montoya;Lathe Operator;2100.0
+IT;64724586;Lucas;Montoya;Lathe Operator;2100.0
+IT;63829284;Jorge;Berrío;Lathe Operator;2100.0
+IT;99412378;Juan;Tabares;Mill Operator;2200.0
+IT;39445610;Didier;Cano;Mill Operator;2200.0
